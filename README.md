@@ -41,6 +41,11 @@
 <p align="left">
 <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" height="100" alt="az-900">
 <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" height="100" alt="az-900">
+</p>
+<h3 align="left">GCP Certifications:</h3>
+<p align="left">
+<img src="https://images.credly.com/size/680x680/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png" width="100" height="100" alt="az-900">
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dbuntyz&show_icons=true&locale=en&layout=compact" alt="dbuntyz" /></p>
 
