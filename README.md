@@ -36,9 +36,12 @@
 <img src="https://images.credly.com/size/680x680/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png" width="100" height="100" alt="az-900">
 <img src="https://images.credly.com/size/680x680/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" width="100" height="100" alt="az-900">
 <img src="https://images.credly.com/size/680x680/images/c3a2e51d-7984-48cc-a4cb-88d4e8487037/azure-network-engineer-associate-600x600.png" width="100" height="100" alt="az-900">
-
-  
 </p>
+<h3 align="left">AWS Certifications:</h3>
+<p align="left">
+<img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" height="100" alt="az-900">
+<img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" height="100" alt="az-900">
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dbuntyz&show_icons=true&locale=en&layout=compact" alt="dbuntyz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dbuntyz&show_icons=true&locale=en" alt="dbuntyz" /></p>
